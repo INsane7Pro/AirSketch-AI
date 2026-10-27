@@ -83,7 +83,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Aditya 
+Aditya Kumar
 
 
 ## Acknowledgements
