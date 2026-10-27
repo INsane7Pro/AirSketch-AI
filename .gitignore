@@ -1,1 +1,7 @@
 handeenv/
+.venv/
+quickdraw_data/
+Data Sources and Artifacts/
+models/
+__pycache__/
+*.pyc
